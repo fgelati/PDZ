@@ -1,0 +1,11 @@
+http://example.com/33 http://purl.org/ica/ric#RiC-hadBirthDate "18.04.1920"^^https://schema.org/Date .
+http://example.com/33 https://www.wikidata.org/wiki/Property:P569 "18.04.1920"^^https://www.wikidata.org/wiki/Q2389905 .
+
+http://example.com/33 http://purl.org/ica/ric#RiC-hadBirthPlace "Ingolstadt"^^https://schema.org/Place .
+http://example.com/33 https://www.wikidata.org/wiki/Property:P19 "Ingolstadt"^^https://www.wikidata.org/wiki/Q1322263 .
+
+http://example.com/33 http://purl.org/ica/ric#RiC-hadDeathDate "04.01.1988"^^https://schema.org/Date .
+http://example.com/33 https://www.wikidata.org/wiki/Property:P570 "04.01.1988"^^https://www.wikidata.org/wiki/Q18748141 .
+
+http://example.com/33 http://purl.org/ica/ric#RiC-hadDeathPlace "Köln"^^https://schema.org/Place .
+http://example.com/33 https://www.wikidata.org/wiki/Property:P20 "Köln"^^https://www.wikidata.org/wiki/Q18658526 .
