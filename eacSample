@@ -1,0 +1,47 @@
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+<control>
+	<recordId>A1</recordId>
+	<otherRecordId localType="Personengruppe_des_Forschungsprojekts"></otherRecordId>
+	<otherRecordId localType="Stammdaten"></otherRecordId>
+	<otherRecordId localType="Bemerkungen_zu_den_Stammdaten"></otherRecordId>
+	<maintenanceStatus></maintenanceStatus>
+	<maintenanceAgency>
+		<agencyName>Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History</agencyName>
+	</maintenanceAgency>
+	<languageDeclaration>
+      <language languageCode="ger">German</language>
+      <script scriptCode="Latn">Latin</script>
+	</languageDeclaration>
+	<conventionDeclaration></conventionDeclaration>
+	<maintenanceHistory>
+      <maintenanceEvent>
+        <eventType></eventType>
+        <eventDateTime></eventDateTime>
+        <agent></agent>
+      </maintenanceEvent>
+	</maintenanceHistory>
+	<sources>
+		<source>
+			<sourceEntry>Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History</sourceEntry>
+		</source>
+	</sources>
+</control>
+<cpfDescription>
+	<identity>
+      <entityId>A1</entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part localType="Voller_Name"></part>
+		<part localType="Akademischer_Titel"></part>
+		<part localType="Geschlecht"></part>
+      </nameEntry>
+    </identity>
+<description>
+</description>
+<relations>
+	<resourceRelation xlink:href=""></resourceRelation>
+	<resourceRelation localType="BeruflicheStation"></resourceRelation>
+	<resourceRelation localType="Benutzerklasse"></resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
