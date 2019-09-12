@@ -1,0 +1,17 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<xsl:template match="/">
+<xsl:for-each select="Datenbank/Objekt"> 
+http://example.com/<xsl:value-of select="Objektnummer"/> http://purl.org/ica/ric#RiC-hadBirthDate "<xsl:value-of select="Geburtsdatum"/>"^^https://schema.org/Date .
+http://example.com/<xsl:value-of select="Objektnummer"/> https://www.wikidata.org/wiki/Property:P569 "<xsl:value-of select="Geburtsdatum"/>"^^https://www.wikidata.org/wiki/Q2389905 .
+
+http://example.com/<xsl:value-of select="Objektnummer"/> http://purl.org/ica/ric#RiC-hadBirthPlace "<xsl:value-of select="Geburtsort"/>"^^https://schema.org/Place .
+http://example.com/<xsl:value-of select="Objektnummer"/> https://www.wikidata.org/wiki/Property:P19 "<xsl:value-of select="Geburtsort"/>"^^https://www.wikidata.org/wiki/Q1322263 .
+
+http://example.com/<xsl:value-of select="Objektnummer"/> http://purl.org/ica/ric#RiC-hadDeathDate "<xsl:value-of select="Sterbedatum"/>"^^https://schema.org/Date .
+http://example.com/<xsl:value-of select="Objektnummer"/> https://www.wikidata.org/wiki/Property:P570 "<xsl:value-of select="Sterbedatum"/>"^^https://www.wikidata.org/wiki/Q18748141 .
+
+http://example.com/<xsl:value-of select="Objektnummer"/> http://purl.org/ica/ric#RiC-hadDeathPlace "<xsl:value-of select="Sterbeort"/>"^^https://schema.org/Place .
+http://example.com/<xsl:value-of select="Objektnummer"/> https://www.wikidata.org/wiki/Property:P20 "<xsl:value-of select="Sterbeort"/>"^^https://www.wikidata.org/wiki/Q18658526 .
+</xsl:for-each>
+</xsl:template>
+</xsl:stylesheet>
