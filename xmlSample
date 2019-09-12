@@ -1,0 +1,42 @@
+<Datenbank>
+<Objekt>
+<Objektnummer>33</Objektnummer>
+<Personengruppe_der_Forschungsprojekte>Bundesministerium des Innern (BMI)</Personengruppe_der_Forschungsprojekte>
+<SG_Stammdaten>PA ---- (BStU)</SG_Stammdaten>
+<Name>Müller, Walter</Name>
+<Geschlecht>m</Geschlecht>
+<Geburtsdatum>18.04.1920</Geburtsdatum>
+<Geburtsort>Ingolstadt</Geburtsort>
+<Sterbedatum>04.01.1988</Sterbedatum>
+<Sterbeort>Köln</Sterbeort>
+<Konfession_und_Bekenntnis>
+<Konfession_oder_persoenliches_Bekenntnis>Konfessionszugehörigkeit</Konfession_oder_persoenliches_Bekenntnis>
+<Name_Konfession_oder_persoenliches_Bekenntnis>evangelisch</Name_Konfession_oder_persoenliches_Bekenntnis>
+</Konfession_und_Bekenntnis>
+<Bemerkungen_zu_den_Stammdaten>lt. PA ---- (BStU) Austritt aus der Kirche</Bemerkungen_zu_den_Stammdaten>
+<Verbund_Studium>
+<SG_Studium>R3001/40258</SG_Studium>
+<Hauptfach>Rechtswissenschaften</Hauptfach>
+<Institution>Universität Münster</Institution>
+<Institution>Universität Berlin</Institution>
+<Beginn_Studium>1928</Beginn_Studium>
+<Ende_Studium>1932</Ende_Studium>
+</Verbund_Studium>
+<Verbund_Stationen_der_Fachausbildung>
+<Institution_der_Station>Amtsgericht Baden-Baden/Ettenheim</Institution_der_Station>
+<Ort_der_Station>Baden-Baden, Ettenheim</Ort_der_Station>
+<Beginn_Station>1934</Beginn_Station>
+<Ende_Station>1935</Ende_Station>
+</Verbund_Stationen_der_Fachausbildung>
+<Kategorien_fuer_die_Statistik__Beruf_>Reichsministerialbürokratie (1933-1945)</Kategorien_fuer_die_Statistik__Beruf_>
+<Kategorien_fuer_die_Statistik__Beruf_>Justizdienst (1933-1945)</Kategorien_fuer_die_Statistik__Beruf_>
+<Kategorien_fuer_die_Statistik__Beruf_>Verwaltungsdienst (1933-1945)</Kategorien_fuer_die_Statistik__Beruf_>
+<Kategorien_fuer_die_Statistik__Beruf_>Dienstlich tätig in besetzten Gebieten (1933-1945)</Kategorien_fuer_die_Statistik__Beruf_>
+<Bemerkungen>Nachbearbeitung abgeschlossen (ifz_hk1)</Bemerkungen>
+<Benutzerklasse>6</Benutzerklasse>
+<erfasst_am>01.01.2016</erfasst_am>
+<erfasst_von>Schmidt</erfasst_von>
+<korrigiert_am>26.04.2018</korrigiert_am>
+<korrigiert_von>Richter</korrigiert_von>
+</Objekt>
+</Datenbank>
