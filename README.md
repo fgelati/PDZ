@@ -5,4 +5,5 @@ The project started in August 2019 at the Institut für Zeitgeschichte München 
 The coding prototypes aim to transform a non standard-compliant XML-export of archival authority records into Linked Data N-Triples by means of XLS mapping files. 
 
 Francesco Gelati's ID: http://orcid.org/0000-0002-6066-1308
+
 Website of the Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History: https://www.ifz-muenchen.de/
