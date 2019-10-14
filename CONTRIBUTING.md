@@ -5,6 +5,7 @@ Feedback and contributions of any form are welcomed, especially:
 - suggestions concerning the code: modifications, improvements, updates, alternatives;
 - comments from similar projects;
 - remarks on the workflow.
+
 Error and bug reports will be extremely appreciated and can be notified at [gelati@ifz-muenchen.de](gelati@ifz-muenchen.de).
 
 ## Documentation
