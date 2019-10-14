@@ -24,4 +24,4 @@ The best way to contribute to the project would be the "fork-and-pull" Git workf
 - Push your work back up to your fork
 - Submit a Pull request so that we can review your changes
 
-Feel free also to email us at [gelati@ifz-muenchen.de](gelati@ifz-muenchen.de) or to follow the project leader on Twitter at [@f_gelati](https://twitter.com/f_gelati)
+Feel free also to email us at [gelati@ifz-muenchen.de](gelati@ifz-muenchen.de) or to follow the project leader on Twitter  [@f_gelati](https://twitter.com/f_gelati)
