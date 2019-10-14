@@ -1,5 +1,8 @@
-# 2019icarus
-Sample code from the presentation given by Francesco Gelati at the Belgrade 2019 Icarus Convention.
-Conference web-page: https://icar-us.eu/en/event/english-icarus-convention-24/
-Presentation is available under license CC BY 4.0 here: https://doi.org/10.5281/zenodo.3465304
-Author ID: http://orcid.org/0000-0002-6066-1308
+# Transforming authority records as XML-files into Linked Data N-Triples
+This directory shares code from the research project "Personen-Datenbank Zeitgeschichte" (Authority Database Contemporary History).
+The project aims to ensure the FAIRification of an authority record database held by the institute and a its sustainable preservation.
+The project started in August 2019 at the Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History and is led by Francesco Gelati.
+The coding prototypes aim to transform a non standard-compliant XML-export of archival authority records into Linked Data N-Triples by means of XLS mapping files. 
+
+Francesco Gelati's ID: http://orcid.org/0000-0002-6066-1308
+Website of the Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History: https://www.ifz-muenchen.de/
