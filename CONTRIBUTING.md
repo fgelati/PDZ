@@ -9,7 +9,7 @@ Feedback and contributions of any form are welcomed, especially:
 Error and bug reports will be extremely appreciated and can be notified at [gelati@ifz-muenchen.de](gelati@ifz-muenchen.de).
 
 ## Documentation
-A proper documentation is not yet available. An introduction to the project and its activities can however be found in the presentation 
+A proper documentation is not yet available. An introduction to the project, its activities and goals can however be found in the presentation 
 [Archival Authority Records as Linked Data thanks to Wikidata, schema.org and the Records in Context Ontology](https://doi.org/10.5281/zenodo.3465304)
 given by Francesco Gelati at the [ICARUS (International Centre for Archival Research) Convention "Archives and Archival Research in the Digital Environment"](https://icar-us.eu/en/event/english-icarus-convention-24/) in September 2019 at Belgrade. 
 
