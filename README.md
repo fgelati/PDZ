@@ -6,6 +6,12 @@ The coding prototypes aim to transform a non standard-compliant XML-export of ar
 
 DOI: https://doi.org/10.5281/zenodo.3484706
 
-Author's ID: http://orcid.org/0000-0002-6066-1308
+Institute's PIDs: 
+https://www.wikidata.org/wiki/Q896552
+https://viaf.org/viaf/139529591
+http://d-nb.info/gnd/2014524-X
+
+Author's PID: 
+http://orcid.org/0000-0002-6066-1308
 
 Website of the Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History: https://www.ifz-muenchen.de/
