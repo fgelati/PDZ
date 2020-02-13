@@ -1,0 +1,411 @@
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink">
+<control>
+	<recordId></recordId>
+	<otherRecordId localType="GND-Nummer"></otherRecordId>
+	<maintenanceStatus>new</maintenanceStatus>
+	<maintenanceAgency>
+		<agencyName>Institut fuer Zeitgeschichte Muenchen - Berlin / Leibniz Institute for Contemporary History IfZ</agencyName>
+		<descriptiveNote>
+			<p>Leonrodstrasse 46B, 80636 Muenchen</p>
+			<p>telephone: 004989126880</p>
+			<p>ifz@ifz-muenchen.de</p>
+			<p>https://www.ifz-muenchen.de</p>
+		</descriptiveNote>
+	</maintenanceAgency>
+	<languageDeclaration>
+      <language languageCode="ger">German</language>
+      <script scriptCode="Latn">Latin</script>
+	</languageDeclaration>
+	<conventionDeclaration></conventionDeclaration>
+	<maintenanceHistory>
+		<maintenanceEvent>
+			<eventType>created</eventType>
+			<eventDateTime></eventDateTime>
+			<agent></agent>
+		</maintenanceEvent>
+		<maintenanceEvent>
+			<eventType>revised</eventType>
+			<eventDateTime></eventDateTime>
+			<agent></agent>
+		</maintenanceEvent>
+	</maintenanceHistory>
+	<sources>
+		<source>
+			<sourceEntry>Institut fuer Zeitgeschichte Muenchen - Berlin / Leibniz Institute for Contemporary History IfZ</sourceEntry>
+		</source>
+		<source>
+			<sourceEntry></sourceEntry>
+		</source>
+	</sources>
+	<rightsDeclaration>
+	</rightsDeclaration>
+</control>
+<cpfDescription>
+	<identity>
+      <entityId></entityId>
+      <entityType>person</entityType>
+      <nameEntry>
+        <part localType="Voller_Name"></part>
+		<part localType="Akademischer_Titel"></part>
+		<part localType="Geschlecht"></part>
+		<part localType="Nationalitaet"></part>
+      </nameEntry>
+    </identity>
+	<description>
+		<generalContext>
+			<list>
+				<item localType="SG_Stammdaten"></item>
+				<item localType="Bemerkungen_zu_den_Stammdaten"></item>
+				<item localType="Bemerkungen_zur_Aktenlage"></item>
+				<item localType="Bemerkungen"></item>
+				<item localType="Bemerkungen_zu_Militaer"></item>
+				<item localType="Name_Konfession"></item>
+				<item localType="Beginn_Konfession"></item>
+				<item localType="Ende_Konfession"></item>
+				<item localType="juedische_Herkunft"></item>
+				<item localType="kriegsuntauglich_erklaert"></item>
+				<item localType="Datum_der_Erklaerung"></item>
+				<item localType="Mitgliedschaft"></item>
+				<item localType="Ereignis"></item>
+			</list>
+		</generalContext>
+		<existDates>
+			<dateRange>
+				<fromDate></fromDate>
+				<toDate></toDate>
+			</dateRange>
+		</existDates>
+		<places>
+			<place localType="Geburtsort"></place>
+			<place localType="Sterbeort"></place>
+			<place localType="Wohnsitz">
+				<address>
+					<addressLine></addressLine>
+				</address>
+			<descriptiveNote localType="SG_Wohnsitz"></descriptiveNote>
+			<descriptiveNote localType="Bemerkungen_zum_Wohnsitz"></descriptiveNote>
+			<descriptiveNote localType="Grund_Ende"></descriptiveNote>
+			<dateRange localType="Zeitraum_des_Wohnsitzes">
+					<fromDate></fromDate>
+					<toDate></toDate>
+			</dateRange>
+			</place>
+		</places>
+		<biogHist>
+			<p></p>
+			<chronList>
+			<chronItem localType="Ausbildung">
+				<event localType="SG_Ausbildung"></event>
+				<event localType="Abschluss_der_Ausbildung"></event>
+				<event localType="Ausbildungsfach"></event>
+				<event localType="Bemerkungen_zur_Ausbildung"></event>
+				<dateRange localType="Zeitraum_der_Ausbildung">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Studium">
+				<event localType="SG_Studium"></event>
+				<event localType="Hauptfach"></event>
+				<event localType="Nebenfach"></event>
+				<event localType="Note_des_Studiumabschlusses"></event>
+				<event localType="Abschluss_des_Studiums"></event>
+				<event localType="Titel_der_Abschlussarbeit_Studium"></event>
+				<event localType="Bemerkungen_zum_Studium"></event>
+				<placeEntry localType="Ort_des_Studiums"></placeEntry>
+				<date localType="Datum_des_Studienabschlusses"></date>
+				<dateRange localType="Zeitraum_des_Studiums">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Promotion_oder_Habilitation">
+				<event localType="SG_Promotion_oder_Habilitation"></event>
+				<event localType="Titel_der_Promotionsarbeit_oder_der_Habilitationsschrift"></event>
+				<event localType="Promotionsfach_oder_Habilitationsfach"></event>
+				<event localType="Promotionsfach_oder_Habilitationsfach"></event>
+				<event localType="Note_der_Promotion_oder_Habilitation"></event>
+				<event localType="Bemerkungen_zur_Promotion_oder_Habilitation"></event>
+				<placeEntry localType="Institution_des_Promotionsstudiums_oder_der_Habilitation"></placeEntry>
+				<placeEntry localType="Ort_des_Promotionsstudiums_oder_der_Habilitation"></placeEntry>
+				<dateRange localType="Zeitraum_der_Promotion_oder_Habilitation">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Fachausbildung">
+				<event localType="SG_Fachausbildung"></event>
+				<event localType="Fach_der_Fachausbildung"></event>
+				<event localType="Abschluss_der_Fachausbildung"></event>
+				<event localType="Note_der_Fachausbildung"></event>
+				<event localType="Bemerkungen_zur_Fachausbildung"></event>
+				<placeEntry localType="Institution_der_Fachausbildung"></placeEntry>
+				<placeEntry localType="Ort_der_Fachausbildung"></placeEntry>
+				<date localType="Datum_Abschluss_Fachausbildung"></date>
+				<dateRange localType="Zeitraum_der_Fachausbildung">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Station_der_Fachausbildung">
+				<event localType="Aufgabengebiet"></event>
+				<placeEntry localType="Institution_der_Fachausbildung"></placeEntry>
+				<placeEntry localType="Ort_der_Fachausbildung"></placeEntry>
+				<dateRange localType="Zeitraum_der_Fachausbildungsstation">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Weiterbildung">
+				<event localType="SG_Weiterbildung"></event>
+				<event localType="Abschluss_der_Weiterbildung"></event>
+				<event localType="Fach_der_Weiterbildung"></event>
+				<event localType="Note_der_Weiterbildung"></event>
+				<event localType="Titel_der_Abschlussarbeit_Weiterbildung"></event>
+				<placeEntry localType="Institution_der_Weiterbildung"></placeEntry>
+				<placeEntry localType="Ort_der_Weiterbildung"></placeEntry>
+				<dateRange localType="Zeitraum_der_Weiterbildung">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Militaereinsatz">
+				<event localType="SG_Militaereinsatz"></event>
+				<event localType="Art_des_Einsatzes"></event>
+				<dateRange localType="Zeitraum_des_Militaereinsatzes">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Militaereinheit_oder_Militaerverwaltung">
+				<event localType="Militaereinheit_oder_Militaerverwaltung"></event>
+				<event localType="Militaerrang"></event>
+				<event localType="Abteilung_oder_Aufgabe"></event>
+				<event localType="Bemerkungen_zur_Militaereinheit_oder_zur_Militaerverwaltung"></event>
+				<placeEntry localType="Einsatzgebiet_der_Militaereinheit_oder_Ort_der_Militaerverwaltung"></placeEntry>
+				<date localType="Datum_der_Befoerderung_zu_diesem_Rang"></date>
+				<dateRange localType="Zeitraum_der_Militaereinheit">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Partei">
+				<event localType="SG_Partei"></event>
+				<event localType="SG_Angabe_Partei_bei_Einstellung"></event>
+				<event localType="Partei"></event>
+				<event localType="Alter_bei_Parteieintritt"></event>
+				<event localType="Angabe_Partei_bei_Einstellung_nach_1945"></event>
+				<event localType="Mitgliedsnummer_in_der_Partei"></event>
+				<event localType="Grund_Parteiaustritt"></event>
+				<event localType="Bemerkungen_zur_Partei"></event>
+				<event localType="Angabe_Partei_bei_Eintritt"></event>
+				<event localType="nur_Anwaerterschaft_der_Partei"></event>
+				<date localType="Antrag_Parteieintritt"></date>
+				<dateRange localType="Zeitraum_in_der_Partei">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+				<event localType="Position_in_der_Partei"></event>
+				<event localType="Aufgabe_in_der_Partei"></event>
+				<placeEntry localType="Ort_der_Partei"></placeEntry>
+				<placeEntry localType="Ort_der_Partei"></placeEntry>
+				<date localType="Zeitraum_der_Funktion_in_der_Partei"></date>
+			</chronItem>
+			<chronItem localType="Parteiorganisation">
+				<event localType="SG_Parteiorganisation"></event>
+				<event localType="SG_Angabe_Partei_bei_Einstellung_nach_1945"></event>
+				<event localType="Parteiorganisation"></event>
+				<event localType="Alter_bei_Eintritt_Parteirganisation"></event>
+				<event localType="Mitgliedsnummer_in_der_Parteiorganisation"></event>
+				<event localType="Angabe_Parteiorganisation"></event>
+				<event localType="nur_Anwaerterschaft_der_Parteiorganisation"></event>
+				<date localType="Antrag_Eintritt_Parteiorganisation"></date>
+				<dateRange localType="Zeitraum_in_der_Parteiorganisation">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+				<event localType="Position_in_der_Parteiorganisation"></event>
+				<event localType="Abteilung_der_Parteiorganisation"></event>
+				<event localType="Aufgabe_in_der_Parteiorganisation"></event>
+				<placeEntry localType="Ort_der_Parteiorganisation"></placeEntry>
+				<placeEntry localType="Ort_der_Parteiorganisation"></placeEntry>
+				<date localType="Zeitraum_der_Funktion_in_der_Parteiorganisation"></date>
+			</chronItem>
+			<chronItem localType="Sonstige_Taetigkeiten">
+				<event localType="SG_Sonstige_Taetigkeit"></event>
+				<event localType="Art_der_Taetigkeit"></event>
+				<event localType="Name_oder_Organisation_der_Taetigkeit"></event>
+				<event localType="Grund_Ende_der_Taetigkeit"></event>
+				<event localType="Bemerkungen_zur_sonstigen_Taetigkeit"></event>
+				<event localType="Position_und_Aufgabe_in_der_Organisation"></event>
+				<event localType="Position_und_Aufgabe_in_der_Organisation"></event>
+				<placeEntry localType="Ort_der_Taetigkeit"></placeEntry>
+				<dateRange localType="Zeitraum_der_Taetigkeit">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Verfolgung_oder_Inhaftierung_oder_Exil">
+				<event localType="SG_Ereignis"></event>
+				<event localType="Art_des_Ereignisses"></event>
+				<event localType="Art_des_Ereignisses"></event>
+				<event localType="Taetigkeit_im_Exil"></event>
+				<event localType="Bemerkungen_zum_Ereignis"></event>
+				<placeEntry localType="Ort_des_Ereignisses"></placeEntry>
+				<placeEntry localType="Ort_des_Ereignisses"></placeEntry>
+				<dateRange localType="Zeitraum_des_Ereignisses">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Wiederstand">
+				<event localType="Widerstand_im_NS"></event>
+				<event localType="Behaupteter_Widerstand_im_NS"></event>
+				<event localType="Einstellung_gegenueber_dem_NS"></event>
+				<event localType="Taetigkeit_oder_Beteiligung_im_NS"></event>
+				<event localType="SG_Wiederstand"></event>
+				<event localType="Behaupteter_Wiederstand"></event>
+				<event localType="Form_des_Wiederstands"></event>
+				<event localType="Gruppe_oder_Organisation_des_Wiederstands"></event>
+				<event localType="Widerstandstaetigkeit"></event>
+				<event localType="Bemerkungen_zum_Widerstand"></event>
+				<date localType="Zeitraum_des_Widerstands"></date>
+			</chronItem>
+			<chronItem localType="Flucht">
+				<event localType="SG_Flucht"></event>
+				<event localType="Fluechtlingsstatus"></event>
+				<event localType="Grund_fuer_die_Flucht"></event>
+				<event localType="Bemerkungen_zur_Flucht"></event>
+				<placeEntry localType="Von_Ort"></placeEntry>
+				<placeEntry localType="Nach_Ort"></placeEntry>
+				<dateRange localType="Zeitraum_der_Flucht">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Kriegsgefangenschaft_oder_Internierung">
+				<event localType="SG_Kriegsgefangenschaft_oder_Internierung"></event>
+				<event localType="Besatzungsmacht_der_Kriegsgefangenschaft_oder_politischen_Internierung"></event>
+				<event localType="Funktion_waehrend_Kriegsgefangenschaft"></event>
+				<event localType="Grund_der_Kriegsgefangenschaft"></event>
+				<event localType="Bemerkungen_zur_Kriegsgefangenschaft_oder_Internierung"></event>
+				<placeEntry localType="Name_des_Lagers"></placeEntry>
+				<placeEntry localType="Ort_des_Lagers"></placeEntry>
+				<placeEntry localType="Ort_des_Lagers"></placeEntry>
+				<dateRange localType="Zeitraum_der_Kriegsgefangenschaft_oder_Internierung">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</chronItem>
+			<chronItem localType="Entnazifizierung">
+				<event localType="SG_Entnazifizierung"></event>
+				<event localType="Kategorie_der_Entnazifizierung"></event>
+				<event localType="Spruchkammer"></event>
+				<event localType="Fuersprecher_Entnazifizierungsverfahren"></event>
+				<event localType="Einspruch_eingelegt"></event>
+				<event localType="Bemerkungen_zur_Entnazifizierung"></event>
+				<event localType="Bemerkungen_zur_Entnazifizierung"></event>
+				<placeEntry localType="Besatzungszone"></placeEntry>
+				<date localType="Datum_der_Entnazifizierung"></date>
+			</chronItem>
+			<chronItem localType="Strafverfahren">
+				<event localType="SG_Strafverfahren"></event>
+				<event localType="Aktenzeichnen_des_Strafverfahrens"></event>
+				<event localType="Ausgang_oder_Urteil"></event>
+				<event localType="Ermittelnde_Staatsanwaltschaft"></event>
+				<event localType="Mitbeschuldigte_oder_Zeugen"></event>
+				<event localType="Verbrechen"></event>
+				<event localType="Bemerkungen_zum_Strafverfahren"></event>
+				<date localType="Datum_des_Verfahrens"></date>
+				<date localType="Datum_des_Urteils"></date>
+			</chronItem>
+			<chronItem localType="Orden_und_Auszeichnungen">
+				<event localType="SG_Orden_und_Auszeichnungen"></event>
+				<event localType="Name_Orden"></event>
+				<event localType="Verleiher"></event>
+				<event localType="Bemerkungen_zum_Orden"></event>
+				<placeEntry localType="Ort_der_Verleihung"></placeEntry>
+				<date localType="Datum_der_Verleihung"></date>
+			</chronItem>
+			<chronItem localType="Schwerbeschaedigung">
+				<event localType="SG_Schwerbeschaedigung"></event>
+				<event localType="Grund_fuer_die_Schwerbeschaedigung"></event>
+				<event localType="Bemerkungen_zur_Schwerbeschaedigung"></event>
+				<date localType="Datum_der_Schwerbeschaedigung"></date>
+			</chronItem>	
+			<chronItem localType="Materiale_Belastung">
+				<event localType="SG_Schwerbeschaedigung"></event>
+				<event localType="Materiale_Belastung"></event>
+			</chronItem>
+			</chronList>
+		</biogHist>
+		<occupations>
+			<occupation localType="Arbeitsstelle">
+					<term></term>
+			</occupation>
+			<occupation localType="Arbeitgeber">
+					<term></term>
+				</occupation>
+			<occupation localType="Berufliche_Einheit">
+				<term localType="SG_Berufliche_Einheit"></term>
+				<term localType="Abteilung"></term>
+				<term localType="Arbeitgeber"></term>
+				<term localType="Beteiligt_an"></term>
+				<term localType="Gebiet_oder_Referat_oder_Aufgabe"></term>
+				<term localType="Position"></term>
+				<term localType="Premie_oder_Bonus_in_Waehrung"></term>
+				<date localType="Datum_Auszahlung_Premie_oder_Bonus"></date>
+				<dateRange localType="Zeitraum_der_beruflichen_Einheit">
+					<fromDate></fromDate>
+					<toDate></toDate>
+				</dateRange>
+			</occupation>
+			<occupation localType="Amtsbezeichnung">
+				<term localType="Amtsbezeichnung"></term>
+				<term localType="Auf_Empfehlung_von_oder_auf_Befehl_von"></term>
+				<term localType="vorzeitige_Befoerderung"></term>
+				<date localType="Datum_der_Ernennung"></date>
+			</occupation>
+			<occupation localType="131er">
+				<term localType="SG_131er"></term>
+				<term localType="Begruendung_131er"></term>
+				<term localType="Einstellung_als_131er"></term>
+				<term localType="Bemerkungen_zur_Einstellung_als_131er"></term>
+				<date localType="Datum_der_Entscheidung"></date>
+			</occupation>
+			<occupation localType="Unabkoemmlichstellung">
+				<term localType="unabkoemmlich_gestellt"></term>
+				<date localType="Datum_der_Aufhebung_der_Unabkoemmlichstellung"></date>
+				<date localType="Datum_der_Unabkoemmlichstellung"></date>
+			</occupation>
+		</occupations>
+	</description>
+	<relations>
+	<cpfRelation>
+		<relationEntry localType="SG_Vernetzte_Person"></relationEntry>
+		<relationEntry localType="Vernetzte_Person"></relationEntry>
+		<relationEntry localType="Grund_der_Verbindung"></relationEntry>
+		<relationEntry localType="Ausdruck_der_Verbindung"></relationEntry>
+		<relationEntry localType="Verbindung_ueber_Organisation_oder_Verein"></relationEntry>
+		<relationEntry localType="Grund_Ende_des_Kontakts"></relationEntry>
+		<relationEntry localType="Ort_des_Kontakts"></relationEntry>
+		<relationEntry localType="Dokument_zur_Verbindung"></relationEntry>
+		<relationEntry localType="Bemerkungen_zum_Netzwerk"></relationEntry>
+		<date localType="Geburtsdatum_der_vernetzten_Person"></date>
+		<dateRange localType="Zeitraum_der_Verbindung">
+			<fromDate></fromDate>
+			<toDate></toDate>
+		</dateRange>
+	</cpfRelation>
+	<cpfRelation>
+		<relationEntry localType="Personengruppe_der_Forschungsprojekte"></relationEntry>
+		<relationEntry localType="Doktormutter_oder_Doktorvater"></relationEntry>
+		<relationEntry localType="Kamerad_im_Wiederstand"></relationEntry>
+		<relationEntry localType="Vorgesetzter_in_der_Militaereinheit_oder_in_der_Militaerverwaltung"></relationEntry>
+	</cpfRelation>
+	<cpfRelation cpfRelationType="family">
+		<relationEntry localType="Verwandte_r"></relationEntry>
+	</cpfRelation>
+	</relations>
+</cpfDescription>
+</eac-cpf>
