@@ -1,4 +1,4 @@
-# Transforming authority records as XML-files into Linked Data N-Triples
+# Personen-Datenbank Zeitgeschichte
 This directory shares code from the research project "Personen-Datenbank Zeitgeschichte" (Authority Database Contemporary History).
 The project aims to ensure the FAIRification and the sustainable preservation of an authority record database held by the institute.
 The project started in August 2019 at the Institut für Zeitgeschichte München - Berlin / Leibniz Institute for Contemporary History and is led by Francesco Gelati.
