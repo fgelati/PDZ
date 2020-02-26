@@ -20,7 +20,7 @@
   dct:rightsHolder <https://www.wikidata.org/wiki/Q896552>;
   dct:isReferencedBy <https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000C-D839-1>, <https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000C-D838-2>;
   dct:title "Systematik der Personen-Datenbank Zeitgeschichte"@de;
-  dct:title "Classification of the Personen-Datenbank Zeitgeschichte"@de;
+  dct:title "Classification of the Personen-Datenbank Zeitgeschichte"@en;
   skos:hasTopConcept <https://doi.org/10.20375/0000-000C-D839-1>;
   skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
   skos:narrower <https://doi.org/10.20375/0000-000C-D83C-E>, <https://doi.org/10.20375/0000-000C-D83E-C>,
