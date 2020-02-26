@@ -1,0 +1,431 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix euvoc: <http://publications.europa.eu/ontology/euvoc#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix org: <http://www.w3.org/ns/org#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix qb: <http://purl.org/linked-data/cube#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix skosxl: <http://www.w3.org/2008/05/skos-xl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://doi.org/10.20375/0000-000C-D839-1> a skos:Concept, skos:ConceptScheme;
+  dct:license <https://creativecommons.org/licenses/by/3.0/de>;
+  dct:publisher <https://www.wikidata.org/wiki/Q896552>;
+  dct:rightsHolder <https://www.wikidata.org/wiki/Q896552>;
+  dct:isReferencedBy <https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000C-D839-1>, <https://repository.de.dariah.eu/1.0/dhcrud/21.11113/0000-000C-D838-2>;
+  dct:title "Systematik der Personen-Datenbank Zeitgeschichte"@de;
+  dct:title "Classification of the Personen-Datenbank Zeitgeschichte"@de;
+  skos:hasTopConcept <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:narrower <https://doi.org/10.20375/0000-000C-D83C-E>, <https://doi.org/10.20375/0000-000C-D83E-C>,
+    <https://doi.org/10.20375/0000-000C-D840-8>, <https://doi.org/10.20375/0000-000C-D879-9>,
+    <https://doi.org/10.20375/0000-000c-d83a-0>;
+  skos:topConceptOf <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D839-1-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D840-8> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:narrower <https://doi.org/10.20375/0000-000C-D841-7>, <https://doi.org/10.20375/0000-000C-D843-5>,
+    <https://doi.org/10.20375/0000-000C-D845-3>, <https://doi.org/10.20375/0000-000C-D847-1>,
+    <https://doi.org/10.20375/0000-000C-D849-F>, <https://doi.org/10.20375/0000-000C-D84B-D>,
+    <https://doi.org/10.20375/0000-000C-D84D-B>, <https://doi.org/10.20375/0000-000C-D84F-9>,
+    <https://doi.org/10.20375/0000-000C-D851-5>, <https://doi.org/10.20375/0000-000C-D853-3>,
+    <https://doi.org/10.20375/0000-000C-D855-1>, <https://doi.org/10.20375/0000-000C-D857-F>,
+    <https://doi.org/10.20375/0000-000C-D859-D>, <https://doi.org/10.20375/0000-000C-D85B-B>,
+    <https://doi.org/10.20375/0000-000C-D85D-9>, <https://doi.org/10.20375/0000-000C-D85F-7>,
+    <https://doi.org/10.20375/0000-000C-D861-3>, <https://doi.org/10.20375/0000-000C-D863-1>,
+    <https://doi.org/10.20375/0000-000C-D865-F>, <https://doi.org/10.20375/0000-000C-D867-D>,
+    <https://doi.org/10.20375/0000-000C-D869-B>, <https://doi.org/10.20375/0000-000C-D86B-9>,
+    <https://doi.org/10.20375/0000-000C-D86D-7>, <https://doi.org/10.20375/0000-000C-D86F-5>,
+    <https://doi.org/10.20375/0000-000C-D871-1>, <https://doi.org/10.20375/0000-000C-D873-F>,
+    <https://doi.org/10.20375/0000-000C-D875-D>, <https://doi.org/10.20375/0000-000C-D877-B>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D840-8-label-de-0> .
+
+<https://doi.org/10.20375/0000-000c-d83a-0> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000c-d83a-0-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D83C-E> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D83C-E-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D83C-E-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D83E-C> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D83E-C-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D879-9> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D839-1>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D879-9-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D879-9-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D841-7> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D841-7-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D841-7-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D843-5> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D843-5-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D843-5-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D845-3> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D845-3-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D845-3-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D847-1> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D847-1-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D847-1-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D849-F> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D849-F-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D849-F-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D84B-D> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D84B-D-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D84B-D-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D84D-B> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D84D-B-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D84D-B-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D84F-9> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D84F-9-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D84F-9-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D851-5> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D851-5-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D851-5-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D853-3> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D853-3-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D853-3-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D855-1> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D855-1-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D855-1-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D857-F> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D857-F-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D857-F-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D859-D> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D859-D-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D859-D-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D85B-B> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D85B-B-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D85B-B-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D85D-9> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D85D-9-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D85D-9-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D85F-7> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D85F-7-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D85F-7-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D861-3> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D861-3-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D861-3-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D863-1> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D863-1-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D863-1-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D865-F> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D865-F-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D865-F-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D867-D> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D867-D-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D867-D-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D869-B> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D869-B-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D869-B-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D86B-9> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D86B-9-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D86B-9-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D86D-7> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D86D-7-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D86D-7-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D86F-5> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D86F-5-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D86F-5-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D871-1> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D871-1-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D871-1-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D873-F> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D873-F-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D873-F-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D875-D> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D875-D-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D875-D-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D877-B> a skos:Concept;
+  skos:broader <https://doi.org/10.20375/0000-000C-D840-8>;
+  skos:inScheme <https://doi.org/10.20375/0000-000C-D839-1>;
+  skosxl:altLabel <https://doi.org/10.20375/0000-000C-D877-B-label-de-1>;
+  skosxl:prefLabel <https://doi.org/10.20375/0000-000C-D877-B-label-de-0> .
+
+<https://doi.org/10.20375/0000-000C-D84F-9-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Funktion_in_der_Organisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D841-7-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Amtsbezeichnung"@de .
+
+<https://doi.org/10.20375/0000-000C-D861-3-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Partei"@de .
+
+<https://doi.org/10.20375/0000-000C-D84B-D-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Fachausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D85B-B-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Militaereinsatz"@de .
+
+<https://doi.org/10.20375/0000-000C-D861-3-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Partei"@de .
+
+<https://doi.org/10.20375/0000-000C-D86F-5-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Studium"@de .
+
+<https://doi.org/10.20375/0000-000C-D86F-5-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Studium"@de .
+
+<https://doi.org/10.20375/0000-000C-D869-B-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Sonstige_Betaetigung"@de .
+
+<https://doi.org/10.20375/0000-000C-D851-5-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Funktion_in_der_Partei"@de .
+
+<https://doi.org/10.20375/0000-000C-D85D-9-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Netzwerk-Person"@de .
+
+<https://doi.org/10.20375/0000-000C-D873-F-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Weiterbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D83C-E-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Berufliche Station"@de .
+
+<https://doi.org/10.20375/0000-000C-D857-F-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Kriegsgefangenschaft"@de .
+
+<https://doi.org/10.20375/0000-000C-D865-F-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Promotion_oder_Habilitation"@de .
+
+<https://doi.org/10.20375/0000-000C-D84F-9-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Funktion in der Organisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D867-D-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Schwerbeschaedigung"@de .
+
+<https://doi.org/10.20375/0000-000C-D847-1-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund digitales Dokument"@de .
+
+<https://doi.org/10.20375/0000-000C-D839-1-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Systematik der Personen-Datenbank Zeitgeschichte"@de .
+
+<https://doi.org/10.20375/0000-000C-D877-B-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Wohnsitz"@de .
+
+<https://doi.org/10.20375/0000-000C-D873-F-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Weiterbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D865-F-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Promotion oder Habilitation"@de .
+
+<https://doi.org/10.20375/0000-000C-D86D-7-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Strafverfahren"@de .
+
+<https://doi.org/10.20375/0000-000C-D859-D-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Militäreinheit"@de .
+
+<https://doi.org/10.20375/0000-000C-D871-1-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Verfolgung_oder_Inhaftierung_oder_Exil"@de .
+
+<https://doi.org/10.20375/0000-000C-D83E-C-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Literaturtitel"@de .
+
+<https://doi.org/10.20375/0000-000C-D849-F-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Entnazifizierung"@de .
+
+<https://doi.org/10.20375/0000-000c-d83a-0-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Archivdokument"@de .
+
+<https://doi.org/10.20375/0000-000C-D859-D-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Militaereinheit"@de .
+
+<https://doi.org/10.20375/0000-000C-D857-F-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Kriegsgefangenschaft"@de .
+
+<https://doi.org/10.20375/0000-000C-D851-5-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Funktion in der Partei"@de .
+
+<https://doi.org/10.20375/0000-000C-D855-1-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Konfession und Bekenntnis"@de .
+
+<https://doi.org/10.20375/0000-000C-D86B-9-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Stationen der Fachausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D875-D-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Widerstand"@de .
+
+<https://doi.org/10.20375/0000-000C-D86D-7-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Strafverfahren"@de .
+
+<https://doi.org/10.20375/0000-000C-D867-D-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Schwerbeschädigung"@de .
+
+<https://doi.org/10.20375/0000-000C-D849-F-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Entnazifizierung"@de .
+
+<https://doi.org/10.20375/0000-000C-D863-1-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Parteiorganisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D853-3-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Funktion in der Parteiorganisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D843-5-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Ausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D85F-7-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Orden_oder_Ehrenzeichen"@de .
+
+<https://doi.org/10.20375/0000-000C-D845-3-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund berufliche Einheit"@de .
+
+<https://doi.org/10.20375/0000-000C-D877-B-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Wohnsitz"@de .
+
+<https://doi.org/10.20375/0000-000C-D863-1-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Parteiorganisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D85B-B-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Militäreinsatz"@de .
+
+<https://doi.org/10.20375/0000-000C-D83C-E-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Berufliche_Station"@de .
+
+<https://doi.org/10.20375/0000-000C-D855-1-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Konfession_und_Bekenntnis"@de .
+
+<https://doi.org/10.20375/0000-000C-D843-5-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Ausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D879-9-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Weitere Angehörige"@de .
+
+<https://doi.org/10.20375/0000-000C-D853-3-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Funktion_in_der_Parteiorganisation"@de .
+
+<https://doi.org/10.20375/0000-000C-D845-3-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_berufliche_Einheit"@de .
+
+<https://doi.org/10.20375/0000-000C-D85F-7-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Orden oder Ehrenzeichen"@de .
+
+<https://doi.org/10.20375/0000-000C-D879-9-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Weitere_Angehoerige"@de .
+
+<https://doi.org/10.20375/0000-000C-D85D-9-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Netzwerk-Person"@de .
+
+<https://doi.org/10.20375/0000-000C-D86B-9-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Stationen_der_Fachausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D841-7-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Amtsbezeichnung"@de .
+
+<https://doi.org/10.20375/0000-000C-D84D-B-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_Flucht"@de .
+
+<https://doi.org/10.20375/0000-000C-D871-1-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Verfolgung oder Inhaftierung oder Exil"@de .
+
+<https://doi.org/10.20375/0000-000C-D84D-B-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Flucht"@de .
+
+<https://doi.org/10.20375/0000-000C-D847-1-label-de-1> a skosxl:Label;
+  skosxl:literalForm "Verbund_digitales_Dokument"@de .
+
+<https://doi.org/10.20375/0000-000C-D84B-D-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Fachausbildung"@de .
+
+<https://doi.org/10.20375/0000-000C-D875-D-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Widerstand"@de .
+
+<https://doi.org/10.20375/0000-000C-D869-B-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Verbund Sonstige Betätigung"@de .
+
+<https://doi.org/10.20375/0000-000C-D840-8-label-de-0> a skosxl:Label;
+  skosxl:literalForm "Personen"@de .
